@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working at **HealthKart**.
 
-- 🌱 I’m currently learning **JAVA**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/parth-bhayana?tab=repositories](https://github.com/parth-bhayana?tab=repositories).
+- 🌱 I’m currently working on **JAVA**.
 
 - 📫 Reach out to me at **pbhayana007@gmail.com**.
 
