@@ -1,13 +1,13 @@
 <h1 align="center">Hey👋, I'm Parth Bhayana</h1>
 <h3 align="center">A passionate developer creating innovative solutions through code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbhayana&label=Profile%20views&color=0e75b6&style=flat" alt="parthbhayana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-bhayana&label=Profile%20views&color=0e75b6&style=flat" alt="parth-bhayana" /> </p>
 
 - 🔭 I’m currently working at **HealthKart**.
 
 - 🌱 I’m currently learning **JAVA**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/parthbhayana?tab=repositories](https://github.com/parthbhayana?tab=repositories).
+- 👨‍💻 All of my projects are available at [https://github.com/parth-bhayana?tab=repositories](https://github.com/parth-bhayana?tab=repositories).
 
 - 📫 Reach out to me at **pbhayana007@gmail.com**.
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/parth_bhayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth_bhayana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parth-bhayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-bhayana" height="30" width="40" /></a>
-<a href="https://instagram.com/parthbhayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthbhayana" height="30" width="40" /></a>
+<a href="https://instagram.com/parth-bhayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth-bhayana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
