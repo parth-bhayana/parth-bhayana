@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbhayana&label=Profile%20views&color=0e75b6&style=flat" alt="parthbhayana" /> </p>
 
-- 🔭 I’m currently working at HealthKart
+- 🔭 I’m currently working at **HealthKart**
 
 - 🌱 I’m currently learning **JAVA**
 
