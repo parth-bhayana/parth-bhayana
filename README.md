@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbhayana&label=Profile%20views&color=0e75b6&style=flat" alt="parthbhayana" /> </p>
 
-- 🔭 I’m currently working at **HealthKart**
+- 🔭 I’m currently working at **HealthKart**.
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/parthbhayana?tab=repositories](https://github.com/parthbhayana?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/parthbhayana?tab=repositories](https://github.com/parthbhayana?tab=repositories).
 
-- 📫 Reach out to me at **pbhayana007@gmail.com**
+- 📫 Reach out to me at **pbhayana007@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
